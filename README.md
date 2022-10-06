@@ -4,4 +4,4 @@ Link Design: https://dribbble.com/shots/18040658-Classes-Online-Course-Mobile-Ap
 
 ## Screenshot
 
-![App Screenshot](https://github.com/mahdinazmi/Flutter-Online-Course-UI/blob/main/screenshot.png)
+<img src="assets/screenshots/1d5828f9306af36f706b255412319a32.png">
